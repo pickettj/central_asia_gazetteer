@@ -76,16 +76,13 @@ lb = element lb { empty }
 
 
 # (II) Thematic Sections
+# The gazetteer is orgnized by location, and within each location (corresponding to <loc_sec>),
+# there are semi-predictable topical sections
+# Here "lore" is the broadest category; "infrastructure" includes population; "sacred" refers to sacred geography and pilgrimage sites.
 
-# The milestone element <ts> ("thematic section) is used for coding the topical structure of document.
-# It uses conventions established for medieval diplomatics:
-# "The introduction comprises, first, the invocation (invocatio) of God, either by name or through a symbol such as the cross; 
-# second, the superscription (intitulatio), giving the name and title of the sender; 
-# and third, the address (inscriptio), naming those to whom the document is directed, 
-# usually followed by a formula of greeting (salutatio)."
+ts = element ts { ts_type, divLike }
+ts_type = attribute type { "lore" | "economic" | "geography" | "infrastructure" | "agricultural" | "nat-resources" | "sacred" }
 
-ts = element ts { ts_type, empty }
-ts_type = attribute type { "salutatio" | "narratio" | "inscriptio" | "intitulatio" | "invocatio" }
 
 
 # (III) Transcription Annotation
