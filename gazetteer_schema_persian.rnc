@@ -1,4 +1,4 @@
-
+#TEST
 # James Pickett
 # This schema models an un-edited, Persian-language gazetteer about 1910 Bukhara.
 # The text is organized by province, which means the text itself can be coded hierarchically --
