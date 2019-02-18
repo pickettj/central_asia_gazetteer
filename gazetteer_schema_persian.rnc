@@ -81,7 +81,7 @@ lb = element lb { empty }
 # Here "lore" is the broadest category; "infrastructure" includes population; "sacred" refers to sacred geography and pilgrimage sites.
 
 ts = element ts { ts_type, divLike }
-ts_type = attribute type { "lore" | "economic" | "geography" | "infrastructure" | "agricultural" | "nat-resources" | "sacred" }
+ts_type = attribute type { "lore" | "economic" | "ethnographic" | "geography" | "infrastructure" | "agricultural" | "nat-resources" | "sacred" }
 
 
 
