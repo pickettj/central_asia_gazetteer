@@ -105,8 +105,8 @@ flag_type = attribute type { "orthography" | "transcription" | "meaning" | "uncl
 # This is used exclusively for proper nouns, i.e. when the name of an individual is referenced. (Previously I coded implicit references as well: no longer.)
 
 individual =
-    element individual {
-        mixed { ind_id?, (role? | honorific? | location? | flag?)* }
+    element individual {ind_id?,
+        mixed { (role | honorific | location | flag)* }
     }
 ind_id = attribute id { text }
 
