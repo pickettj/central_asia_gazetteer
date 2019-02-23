@@ -1,6 +1,6 @@
 body {
-    
-font-family: 'Cinzel', serif;
+
+font-family: 'Yrsa', serif;
 background: #eeeedd;
     
     
@@ -9,6 +9,7 @@ background: #eeeedd;
 
 nav {
 
+font-family: 'Cinzel', serif;
 margin: auto;
 width: 350px;
 border: 2px solid #555;
@@ -18,9 +19,14 @@ background: #e6e6cc;
     
 }
 
+a:link {color: #974b00;}
+
+a:visited {color: #1a3300;}
+
 
 h1 {
 
+font-family: 'Cinzel', serif;
 font-weight: bold; 
 text-align: center;
 color: #444422;
@@ -32,10 +38,10 @@ margin: 3% auto;
 
 h2 {
   
-    
+    font-family: 'Cinzel', serif;
     padding: 3px;
     margin-left: 4%;
-    
+
 }
 
 
@@ -57,4 +63,16 @@ img {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
+}
+
+
+div {
+    
+    color: #4d2600;
+    font-size: 130%;
+    margin: 3% auto; 
+    padding: 3px;
+    margin-left: 4%;
+    
+    
 }
