@@ -1,0 +1,60 @@
+body {
+    
+font-family: 'Cinzel', serif;
+background: #eeeedd;
+    
+    
+}
+
+
+nav {
+
+margin: auto;
+width: 350px;
+border: 2px solid #555;
+text-align: center; 
+padding: 8px;
+background: #e6e6cc;
+    
+}
+
+
+h1 {
+
+font-weight: bold; 
+text-align: center;
+color: #444422;
+width: 600px;
+margin: 3% auto; 
+
+}
+
+
+h2 {
+  
+    
+    padding: 3px;
+    margin-left: 4%;
+    
+}
+
+
+span {
+    
+    font-weight: bold;
+    color: green;
+    
+}
+
+main {
+    
+    
+}
+
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
