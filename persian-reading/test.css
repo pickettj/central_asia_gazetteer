@@ -1,0 +1,22 @@
+div.flex {
+    display: flex;
+    margin: 5%;
+    justify-content: center;
+    height: 500px;
+    overflow-y: auto;
+    /* overflow-y property here allows both div children
+     * to scroll together */
+}
+div.fa {
+    margin: 0 2%;
+    /* overflow-y property here (and as a div.en
+     * property) will allow the user to scroll each
+     * language's text individually. */
+}
+p.fa {
+    direction: rtl;
+    text-align: right;
+}
+div.en {
+    margin: 0 2%;
+}
