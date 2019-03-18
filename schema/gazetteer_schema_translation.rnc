@@ -1,0 +1,14 @@
+
+
+start = translation
+translation = element translation {loc_sec+}
+
+loc_sec = element loc_sec {id, heading, ts+}
+
+heading = element heading {text}
+
+id = attribute id {text}
+
+ts = element ts {mixed { flag*} }
+
+flag = element flag {text}
