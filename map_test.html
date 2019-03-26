@@ -1,26 +1,33 @@
 <!DOCTYPE html>
 <html>
     <head>
+		<!--Styling-->
         <link rel="stylesheet" type="text/css" href="rsrc/css/gazetteer_master.css" />
         <link rel="stylesheet" type="text/css" href="rsrc/css/map_display.css" />
         <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet" />
         <link href="https://fonts.googleapis.com/css?family=Yrsa" rel="stylesheet" />
         
+		<!--Leaflet-->
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
             integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
             crossorigin="" />
-
         <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
-        <script src="rsrc/js/toggle_textbox_buttons.js"></script>
-
+       
+		<!--Ajax-->
+		<script src="/Test Shit/leaflet-ajax-gh-pages/dist/leaflet.ajax.js"></script>
+		
         <title>Mapping interface test</title>
     </head>
     <body>
         <div id="display-block">
 		
 			<!--Map-->
-            <div id="mapid"/>
-            <script type="text/javascript" src="rsrc/js/bukhara_protectorate_map.js">//</script>
+            <div id="mapid"></div>
+           <!-- <script src="Test Shit/Leaflet.MapboxVectorTile-master/lib/jQuery/jQuery-2.1.1.min.js"></script>
+			<script src="Test Shit/Leaflet.MapboxVectorTile-master/lib/Leaflet/leaflet-0.7.3/leaflet-src.js"></script>
+			<script src="Test Shit/Leaflet.MapboxVectorTile-master/dist/Leaflet.MapboxVectorTile.js"></script>
+			<script src="Test Shit/Leaflet.MapboxVectorTile-master/examples/basic.js"></script>-->
+			<script src="rsrc/js/bukhara_protectorate_map.js"></script>
 
 			<!--Textbox buttons-->
 			<table style="margin-left: 20px;">
@@ -31,6 +38,7 @@
                              onclick="toggleEnglishToPersian()">Persian</div></td>
                 </tr>
             </table>
+			<script src="rsrc/js/toggle_textbox_buttons.js"></script>
 			
 			<!--Textbox-->
             <div id="text-english" class="displayed-textbox">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
