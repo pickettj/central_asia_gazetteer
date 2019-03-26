@@ -1,6 +1,11 @@
 
+
+<?xml-model href="../schema/gazetteer_schema_translation.rnc" type="application/relax-ng-compact-syntax"?>
+
+
 <translation>
-    <loc_sec id="47">Qarakol Province
+    <loc_sec id="47">
+        <heading>Qarakol Province</heading>
         <ts>The second province (wilāyat ū ḥukūmat) of the provinces of Bukhara is the district
             (qaẓā) of Qarakol. Its distance from Bukhara the Noble is seven farsakhs. This province
             is vast and populous. The denizens of this province are all well-off, and all of them
@@ -28,10 +33,69 @@
             This is in fact the original, ancient city of Bukhara, and Abdallah bin Ziyad [an Arab
             general during the 8th (?) century] fought there. Now all of the walls and fortresses
             [suwar ū qalʿa ū arg] and some of the buildings still remain, but - in the words of the
-            holy Qur'an - <flag>???</flag>. The people of Paykand excavate this area to find silver and gold
-            coins, and other old artifacts, and in this manner make their living. The reason for the
-            ruination of this province is twofold: first, the Arab armies devastated it during the
-            conquest [of the 7th and 8th centuries]; second, sand has enveloped it. For these two
-            reasons, the province has fallen into ruin. </ts>
+            holy Qur'an -
+            <flag>???</flag>
+             . The people of Paykand excavate this area to find silver and gold coins, and other old
+            artifacts, and in this manner make their living. The reason for the ruination of this
+            province is twofold: first, the Arab armies devastated it during the conquest [of the
+            7th and 8th centuries]; second, sand has enveloped it. For these two reasons, the
+            province has fallen into ruin. </ts>
+    </loc_sec>
+    <loc_sec id="46">
+        <heading>Ghijduvan</heading>
+        <ts>The third province is the district (qażā) of Kharqānrūd. This province of Ghijduvan is
+            an ancient city and great land. </ts>
+        <ts>This province is long; it spans from the plain (qir) of Bābā Dūghī to the hill (tall) of
+            Ghandak. East-West it is nine Farsakhs of pasture and farmland. </ts>
+        <ts>Inside the fortress (Qurghan) there are a number of ancient structures, including a
+            stone bathhouse, as well as a stone Sufi lodge (khānaqāh) at the head of the shrine
+            (mazār) of Shaykh Tāj al-Dīn. Inside the city there are seven other mosques.
+            <flag>REVSIT rest of section</flag>
+        </ts>
+        <ts>Most of the people are Kazakhs of Nur-Ata who come to this province to work; they do not
+            go to Bukhara itself. </ts>
+        <ts>The people of this province
+            <flag>are constantly injured from their penchant for fireworks</flag>
+             . Every year several individuals are killed or injured. Nevertheless, they persist in
+            this activity.
+            <flag>FINISH section</flag>
+        </ts>
+        <ts>Across five hundred and sixty villages there are 715 mosques and twenty-six
+            congregational mosques. </ts>
+        <ts>In the village of Bāy-Khātūn, at the fut of a great mulberry tree on the road to
+            Bukhara, there is a footprint shrine (qadam-gāh) of Bahā’ al-Dīn [Naqshband] from when
+            he was on pilgrimage (ziyārat) to the shrine of ʿAbd al-Khāliq. Halting a fourth of a
+            Farsakh from the village of Unf al-Bayān, on the way back from the pilgrimage, every
+            person travelling from Bukhara to Ghijduvan can see the sacred footprints at the
+            aforementioned mulberry tree.</ts>
+    </loc_sec>
+    <loc_sec id="48">
+        <heading>The third province of Bukhara is the province of Kamat, i.e. Wabkand</heading>
+        <ts>The province (tūmān) of Kamat is better known as Wabkand</ts>
+        <ts>The bazar [Wabkand] is rich and prosperous, and the weather of the province is
+            good.</ts>
+        <ts>In terms of remnants of ancient ruins, there is a stone minaret built by Arp Aslan Khan
+            [a Seljuk ruler], who built it in the year 455 hijri [1063-1064 CE]. The mosque of that
+            [minaret] was destroyed by an earthquake (ḥarakat-i arż). Now there is a five-prayer
+            mosque located nearby the [old] minaret, as well as a stone madrasa, and a partial sufi
+            lodge with numerous dorms (ḥujrāt) next to the shrine of Mir Khurd.</ts>
+        <ts>In terms of other ancient remnants, the ruins of
+            <flag>Shar Narchaq</flag>
+             are also located in this province, a half-Farsakh from the district center.</ts>
+        <ts>Most of the denizens of this region are merchants or otherwise well off.</ts>
+        <ts>The agriculture of this province is also good.</ts>
+        <ts>In this province there are three thousand households of descendants of the original
+            Muslim conquerors (mujāhidīn-i Islām), from the Arab Najib tribe.
+            <flag>revisit</flag>
+        </ts>
+        <ts>This province has four hundred and sixty mosques and twelve sufi lodges (khānaqāh-i
+            ʿaydayn wa jumaʿa khwānī).</ts>
+        <ts>The total number of residents of this province is fifty thousand households. Of the
+            Turkic tribes, the Manghits, the Saray, and the Nayman are many in this province. And
+            there are also Tajiks.</ts>
+        <ts>According to local lore, Abu Ali Ibn Sina was from the village of Narchaq. Others say he
+            was from
+            <flag>check name</flag>
+            . However, according to the book Rawżat al-Ṣafāʾ [Ibn Sina] was from a village to the south of Bukhara.</ts>
     </loc_sec>
 </translation>
