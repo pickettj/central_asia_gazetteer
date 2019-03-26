@@ -10,14 +10,11 @@
     color: white;
 }
 
-#pseudo-map {
+#mapid {
     background-color: white;
     color: black;
     
     width: 500px;
-}
-
-#map {
     height: 180px;
 }
 
@@ -53,11 +50,12 @@
 
 /* Unique ids */
 #button-english {
-   margin-top: -3px;
+   margin-bottom: -30px;
+   margin-left: 5px;
 }
 #button-persian {
-   margin-top: -3px;
-   margin-left: -1px;
+   margin-bottom: -30px;
+   margin-left: -3px;
 }
 
 /* Toggable classes */
