@@ -1,8 +1,21 @@
+.container {
+	height: 575px;
+	width: 700px;
+	
+	font-weight: normal;
+	
+	/* Flex stuff */
+	flex-direction: column;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
 #display-block {
     background-color: #0e0000;
     color: white;
     
-    height: 575px;
+    height: 475px;
     width: 700px;
 }
 #display-block-2 {
@@ -14,7 +27,7 @@
     background-color: white;
     color: black;
     
-    width: 500px;
+    width: 625px;
     height: 180px;
 }
 
@@ -40,10 +53,11 @@
    background-color: #eeeedd;
    display: block;
    
-   width: 500px;
+   width: 625px;
 }
 .hidden-textbox {
     display: none;
+	width: 625px;
 }
 
 /* Button styles */
