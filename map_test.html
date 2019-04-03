@@ -1,4 +1,7 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+	<head>
 		<!--Styling-->
         <link rel="stylesheet" type="text/css" href="rsrc/css/gazetteer_master.css" />
         <link rel="stylesheet" type="text/css" href="rsrc/css/map_display.css" />
@@ -11,6 +14,9 @@
             crossorigin="" />
         <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js" integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg==" crossorigin=""></script>
        
+		<!--jQuery-->
+		<script src="rsrc/js/jquery-3.3.1.js"></script>
+		
 		<!--Ajax-->
 		<!--<script src="/Test Shit/leaflet-ajax-gh-pages/dist/leaflet.ajax.js"></script>-->
 		
@@ -19,13 +25,8 @@
     <body>
 		<inline-block class="container">
 			<div id="display-block">
-			
 				<!--Map-->
 				<div id="mapid"></div>
-			   <!-- <script src="Test Shit/Leaflet.MapboxVectorTile-master/lib/jQuery/jQuery-2.1.1.min.js"></script>
-				<script src="Test Shit/Leaflet.MapboxVectorTile-master/lib/Leaflet/leaflet-0.7.3/leaflet-src.js"></script>
-				<script src="Test Shit/Leaflet.MapboxVectorTile-master/dist/Leaflet.MapboxVectorTile.js"></script>
-				<script src="Test Shit/Leaflet.MapboxVectorTile-master/examples/basic.js"></script>-->
 				<script src="rsrc/js/bukhara_protectorate_map.js"></script>
 
 				<!--Textbox buttons-->
@@ -38,9 +39,11 @@
 					</tr>
 				</table>
 				<script src="rsrc/js/toggle_textbox_buttons.js"></script>
-				
+						
 				<!--Textbox-->
 				<div id="text-english" class="displayed-textbox">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
 				<div id="text-persian" class="hidden-textbox">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. fdkfkjdkfjdkfjdlslds</div>
 			</div>
 		</inline-block>
+	</body>
+</html>
