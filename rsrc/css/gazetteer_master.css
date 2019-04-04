@@ -44,6 +44,15 @@ h2 {
 
 }
 
+h3 {
+  
+    font-family: 'Cinzel', serif;
+    padding: 3px;
+    margin-left: 4%;
+    border-bottom: 1px solid black;
+
+}
+
 
 span {
     
@@ -75,4 +84,14 @@ div {
     margin-left: 4%;
     
     
+}
+
+img.turk_map {
+      height: 80%;
+  width: 80%;
+}
+
+img.photo {
+  height: 30%;
+  width: 30%;
 }
