@@ -1,4 +1,3 @@
-#TEST
 # James Pickett
 # This schema models an un-edited, Persian-language gazetteer about 1910 Bukhara.
 # The text is organized by province, which means the text itself can be coded hierarchically --
@@ -13,10 +12,11 @@ document = element document { metadata, gazetteer }
 
 #METADATA
 
-# placeholder information: will add more later
-
-metadata = element metadata {title}
+metadata = element metadata { title, author, repository, ref_no }
 title = element title { text }
+author = element author { text }
+repository = element repository { text }
+ref_no = element ref_no { text }
 
 # DOCUMENT
 
