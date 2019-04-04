@@ -21,8 +21,6 @@ var geoJSONFile = {
 
 L.geoJson(geoJSONFile).addTo(mymap);
 
-/*var vectorFileLayer = new L.GeoJSON(geoJSONFile);
-vectorFileLayer.addTo(mymap);*/
 //James's test code
 //not sure why these aren't working below
 

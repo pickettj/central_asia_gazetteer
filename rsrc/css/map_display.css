@@ -12,15 +12,11 @@
 }
 
 #display-block {
-    background-color: #0e0000;
+    background-color: #3c2109; /*#0e0000;*/
     color: white;
     
     height: 475px;
     width: 700px;
-}
-#display-block-2 {
-    background-color: #1a0000;
-    color: white;
 }
 
 #mapid {
@@ -79,7 +75,7 @@
    width: 100px;
 }
 .closed-button {
-   background-color: #2a0000;
+   background-color: #9f6b3f;
    color: white;
    
    width: 100px;
