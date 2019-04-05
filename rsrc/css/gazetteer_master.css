@@ -23,6 +23,16 @@ a:link {color: #974b00;}
 
 a:visited {color: #1a3300;}
 
+ul {
+  background: #cccc99;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.clear {
+  clear: both;
+}
+
 
 h1 {
 
@@ -86,12 +96,20 @@ div {
     
 }
 
-img.turk_map {
-      height: 80%;
-  width: 80%;
+.container {
+      float: left;
 }
 
-img.photo {
-  height: 30%;
-  width: 30%;
+img.turk_map {
+      height: 70%;
+  width: 70%;
+}
+
+
+
+.photo {
+  height: 25%;
+  width: 25%;
+  border-radius: 8px;
+  float: right;
 }
