@@ -1,20 +1,24 @@
 
 
-<?xml-model href="../schema/gazetteer_schema_translation.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../rsrc/schema/gazetteer_schema_translation.rnc" type="application/relax-ng-compact-syntax"?>
 
 
 <translation>
     <loc_sec id="47">
         <heading>Qarakol Province</heading>
-        <ts>The second province (wilāyat ū ḥukūmat) of the provinces of Bukhara is the district
-            (qaẓā) of Qarakol. Its distance from Bukhara the Noble is seven farsakhs. This province
-            is vast and populous. The denizens of this province are all well-off, and all of them
-            have livestock [lit. "have herds"]. In the past, this province was even vaster; [but
-            then] in the span of a century, sand enveloped a quarter of the province from the west,
-            north, and south. Nevertheless, [Qarakol is among] the most propserous of the provinces.
-            Due to a <glossed trans = "ʿadam-i ʿilm">lack of learning</glossed>, the population does not engage in trade.
-            However, in this province there are many individuals who own more than one or two
-            million Tanga [a currency], and many of them are even wealthier than the Bukharan
+        <ts>The second <glossed>province <gloss type="translit">wilāyat ū ḥukūmat</gloss></glossed>
+            of the provinces of Bukhara is the <glossed>district<gloss type="translit"
+                >qaẓā</gloss></glossed> of Qarakol. Its distance from Bukhara the Noble is seven
+                    <glossed>farsakhs<gloss type="comment">A "farsakh" is an old Persian unit of
+                    measurement, around 4 miles.</gloss></glossed>. This province is vast and
+            populous. The denizens of this province are all well-off, and all of them <glossed>have
+                    livestock<gloss type="literal">have herds</gloss></glossed>. In the past, this
+            province was even vaster; [but then] in the span of a century, sand enveloped a quarter
+            of the province from the west, north, and south. Nevertheless, [Qarakol is among] the
+            most propserous of the provinces. Due to a <glossed>lack of learning<gloss
+                    type="translit">ʿadam-i ʿilm</gloss></glossed>, the population does not engage
+            in trade. However, in this province there are many individuals who own more than one or
+            two million Tanga [a currency], and many of them are even wealthier than the Bukharan
             merchants. Qarakol [sheep] skins are well known for their high value, and are even more
             prized in Europe (Ūrūpā ū Farangistān) than in Bukhara, and are obtainable in greater
             numbers and earlier [in the season] than in other provinces. </ts>
@@ -71,7 +75,8 @@
     </loc_sec>
     <loc_sec id="48">
         <heading>Wabkand</heading>
-        <ts>The third province of Bukhara is the province of Kamat, i.e. Wabkand. The province (tūmān) of Kamat is better known as Wabkand</ts>
+        <ts>The third province of Bukhara is the province of Kamat, i.e. Wabkand. The province
+            (tūmān) of Kamat is better known as Wabkand</ts>
         <ts>The bazar [Wabkand] is rich and prosperous, and the weather of the province is
             good.</ts>
         <ts>In terms of remnants of ancient ruins, there is a stone minaret built by Arp Aslan Khan
@@ -96,6 +101,7 @@
         <ts>According to local lore, Abu Ali Ibn Sina was from the village of Narchaq. Others say he
             was from
             <flag>check name</flag>
-            . However, according to the book Rawżat al-Ṣafāʾ [Ibn Sina] was from a village to the south of Bukhara.</ts>
+             . However, according to the book Rawżat al-Ṣafāʾ [Ibn Sina] was from a village to the
+            south of Bukhara.</ts>
     </loc_sec>
 </translation>

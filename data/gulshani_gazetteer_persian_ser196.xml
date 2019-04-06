@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../schema/gazetteer_schema_persian.rnc" type="application/relax-ng-compact-syntax"?>
+<?xml-model href="../rsrc/schema/gazetteer_schema_persian.rnc" type="application/relax-ng-compact-syntax"?>
 <document>
     <metadata>
         <title>Tārīkh-i Humāyūn</title>
@@ -9,6 +9,14 @@
     </metadata>
     <gazetteer>
         <div type="section">
+            
+            <!-- Section begins on 2a (image 1068) -->
+            <!-- Bukhara Province -->
+            <loc_sec id ="220"></loc_sec>
+            <!-- Janub-i Rud -->
+            <loc_sec id="54"></loc_sec>
+            <!-- Shamal-i Rud -->
+            <loc_sec id="55"></loc_sec>
             <loc_sec id="47">
                 <!-- Qarakul Province -->
                 <!-- Section begins on f. 5a (image 1071)-->
@@ -131,8 +139,16 @@
                     <flag type="orthography">کمشکندپست</flag>
                      اما نظر بقول مصنف کتاب روضه الصفاء از قرای نواحی جنوبی شهر بارا است</ts>
             </loc_sec>
-            <!-- from img 1074 -->
+            <!-- Pirmast - from img 1074 -->
             <loc_sec id="49"/>
+            <!-- Khitfar - from img 1075 -->
+            <loc_sec id="52"/>
+            <!-- Khitfar - from img 1075 -->
+            <loc_sec id="52"/>
+            <!-- Ramitan - from img 1076 -->
+            <loc_sec id="51"/>
+            <!-- Khayrabad - from img 1076 -->
+            <loc_sec id="53"/>
         </div>
     </gazetteer>
 </document>
