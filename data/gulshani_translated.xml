@@ -6,7 +6,7 @@
 <translation>
     <loc_sec id="47">
         <heading>Qarakol Province</heading>
-        <ts>The second <glossed>province <gloss type="translit">wilāyat ū ḥukūmat</gloss></glossed>
+        <ts>The second <glossed><target>province</target> <gloss type="translit">wilāyat ū ḥukūmat</gloss></glossed>
             of the provinces of Bukhara is the <glossed>district<gloss type="translit"
                 >qaẓā</gloss></glossed> of Qarakol. Its distance from Bukhara the Noble is seven
                     <glossed>farsakhs<gloss type="comment">A "farsakh" is an old Persian unit of
@@ -18,26 +18,33 @@
             most propserous of the provinces. Due to a <glossed>lack of learning<gloss
                     type="translit">ʿadam-i ʿilm</gloss></glossed>, the population does not engage
             in trade. However, in this province there are many individuals who own more than one or
-            two million Tanga [a currency], and many of them are even wealthier than the Bukharan
-            merchants. Qarakol [sheep] skins are well known for their high value, and are even more
-            prized in Europe (Ūrūpā ū Farangistān) than in Bukhara, and are obtainable in greater
-            numbers and earlier [in the season] than in other provinces. </ts>
-        <ts>In this province there is: one brick and morar (lit. "stone," sangīn) madrasa and one
-            qārī-khāna (Qur'an reading center); adjacent to the fortress (Qurghan) are seven sufi
-            lodges (khānaqāh) (both wooden and stone) and eighteen mosques. [The province] comprises
-            809 villages, which contain 150,000 residents. </ts>
+            two million <glossed>Tanga <gloss type="comment">a currency</gloss></glossed>, and many
+            of them are even wealthier than the Bukharan merchants. Qarakol [sheep] skins are well
+            known for their high value, and are even more prized in <glossed>Europe<gloss
+                    type="translit">Ūrūpā ū Farangistān</gloss></glossed> than in Bukhara, and are
+            obtainable in greater numbers and earlier [in the season] than in other provinces.</ts>
+        <ts>In this province there is: one <glossed>brick and mortar<gloss type="translit"
+                    >sangīn</gloss></glossed> madrasa and one <glossed>qārī-khāna<gloss
+                    type="comment">Qur'an recitation center</gloss></glossed>; adjacent to the
+                    <glossed>fortress<gloss type="translit"/>Qurghan</glossed> are seven
+                <glossed>sufi lodges<gloss type="translit">khānaqāh</gloss></glossed> (both wooden
+            and stone) and eighteen mosques. [The province] comprises 809 villages, which contain
+            150,000 residents. </ts>
         <ts>Water in this province is inadequate, but despite that, agriculture is good. In a bad
-            [drought] year, the land is irrigated, which leads to a strong harvest. </ts>
-        <ts>To the west of this province is a salt mine, located four farsakhs from the center (az
-            markaz-i qażā-yi ān). Every year around ten thousand individuals beset by illnesses of
-            the nerves (amrāż-i ʿaṣabānī), such as [check specific terms] come to this salt mine for
-            treatment. Even foreigners consider the mineral water from this mine to be superior to
-            others. </ts>
+            [drought] year, the land is irrigated, which leads to a strong harvest.</ts>
+        <ts>To the west of this province is a salt mine, located four farsakhs <glossed>from the
+                    center<gloss type="translit">az markaz-i qażā-yi ān</gloss></glossed>. Every
+            year around ten thousand individuals beset by <glossed>illnesses of the nerves<gloss
+                    type="translit">amrāż-i ʿaṣabānī</gloss></glossed>, such as
+            <flag>check</flag>
+             come to this salt mine for treatment. Even foreigners consider the mineral water from
+            this mine to be superior to others.</ts>
         <ts>To the east of this province, in the territory of Paykand, there is a ruin in the sand.
-            This is in fact the original, ancient city of Bukhara, and Abdallah bin Ziyad [an Arab
-            general during the 8th (?) century] fought there. Now all of the walls and fortresses
-            [suwar ū qalʿa ū arg] and some of the buildings still remain, but - in the words of the
-            holy Qur'an -
+            This is in fact the original, ancient city of Bukhara, and
+            <flag>Abdallah bin Ziyad [an Arab general during the 8th (?) century]</flag>
+             fought there. Now all of the <glossed>walls and fortresses<gloss type="translit">suwar
+                    ū qalʿa ū arg</gloss></glossed> and some of the buildings still remain, but - in
+            the words of the holy Qur'an -
             <flag>???</flag>
              . The people of Paykand excavate this area to find silver and gold coins, and other old
             artifacts, and in this manner make their living. The reason for the ruination of this
@@ -47,8 +54,8 @@
     </loc_sec>
     <loc_sec id="46">
         <heading>Ghijduvan</heading>
-        <ts>The third province is the district (qażā) of Kharqānrūd. This province of Ghijduvan is
-            an ancient city and great land. </ts>
+        <ts>The third province is the <glossed>district<gloss type="translit">qażā</gloss></glossed>
+            of Kharqānrūd. This province of Ghijduvan is an ancient city and great land. </ts>
         <ts>This province is long; it spans from the plain (qir) of Bābā Dūghī to the hill (tall) of
             Ghandak. East-West it is nine Farsakhs of pasture and farmland. </ts>
         <ts>Inside the fortress (Qurghan) there are a number of ancient structures, including a

@@ -11,9 +11,13 @@
         <html>
             
             <head>
+                <link rel="stylesheet" type="text/css" href="rsrc/css/reading_view_css.css" />
+                <link href="https://fonts.googleapis.com/css?family=Cinzel" rel="stylesheet" />
+                <link href="https://fonts.googleapis.com/css?family=Yrsa" rel="stylesheet" />
+                
                 <title>Gulshani English</title>
             </head>
-            
+            <body>
             <h2>
                 ToC
             </h2>
@@ -29,7 +33,7 @@
             
             <xsl:apply-templates select = "//loc_sec"/>
             
-               
+            </body> 
         </html>
        
         
@@ -67,6 +71,26 @@
         </p>
         
         
+    </xsl:template>
+    
+    <xsl:template match = "glossed">
+        <span class = "dropdown">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    
+    <xsl:template match = "target">
+        <span class = "gloss">
+            <xsl:apply-templates/> 
+        </span>
+    </xsl:template>
+    
+    
+    
+    <xsl:template match = "gloss">
+        <span class = "dropdown-content">
+            <xsl:apply-templates/> 
+        </span>
     </xsl:template>
     
     

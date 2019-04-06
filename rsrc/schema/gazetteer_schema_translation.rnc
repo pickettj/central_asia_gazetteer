@@ -9,7 +9,7 @@ heading = element heading {text}
 
 id = attribute id {text}
 
-ts = element ts {mixed { flag*, glossed*} }
+ts = element ts {mixed { (flag | glossed)*} }
 
 flag = element flag {text}
 
