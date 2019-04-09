@@ -13,8 +13,10 @@ ts = element ts {mixed { (flag | glossed)*} }
 
 flag = element flag {text}
 
-glossed = element glossed {mixed {gloss} }
+glossed = element glossed {target, gloss }
 
 gloss = element gloss {type, text}
+
+target = element target {text}
 
 type = attribute type {"translit" | "comment" | "literal" }

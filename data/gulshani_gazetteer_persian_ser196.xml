@@ -4,19 +4,19 @@
     <metadata>
         <title>Tārīkh-i Humāyūn</title>
         <author>Muḥammad Ṣādiq Qarāwul Bīgī Gulshanī Bukhārī</author>
-        <repository>Institute of Language, Literature, Oriental and Written Heritage of Tajikistan</repository>
+        <repository>Institute of Language, Literature, Oriental and Written Heritage of
+            Tajikistan</repository>
         <ref_no>2968</ref_no>
     </metadata>
     <gazetteer>
         <div type="section">
-            
             <!-- Section begins on 2a (image 1068) -->
             <!-- Bukhara Province -->
-            <loc_sec id ="220"></loc_sec>
+            <loc_sec id="220"/>
             <!-- Janub-i Rud -->
-            <loc_sec id="54"></loc_sec>
+            <loc_sec id="54"/>
             <!-- Shamal-i Rud -->
-            <loc_sec id="55"></loc_sec>
+            <loc_sec id="55"/>
             <loc_sec id="47">
                 <!-- Qarakul Province -->
                 <!-- Section begins on f. 5a (image 1071)-->
@@ -68,13 +68,15 @@
                 <ts type="infrastructure">بدرون قورغان آن از ابنیه قدیمه یک عدد حمام سنگین متین دارد
                     و یک عدد خانقاه سنگین موجود ست بسر مزار شیخ تاج الدین و هفت عدد مساجد دیگر بدرون
                     شهر دارد درون شهر آن هزار خانه دار ست شهر پیرمست و سلطان آباد اطراف قورغانرا
-                    احاطه نموده جریان دارد در ترصع خندق شهر واقع گردیده است بسر مزار فایض الانوار
-                    شیخ عبد الخالق بقضای شهر آن یک مدرسه سنگین از ابنیه میرزا الوغ بیگ موجود ست بسر
-                    مزار فایض الانوار شیخ عبد الخالق بقضای شهر آن یک مدرسه سنگین از ابنیه میرزا الوغ
-                    بیگ موجود ست و یک مدرسه چوبین دیگر نیز دارد و یک خانقاه سنگین دیگر بسر مزار صوفی
-                    <flag type="orthography">چونید</flag>
-                    <!-- Orthography is suspect; possibly Junayd instead of Chunayd --> نیز موجود ست
-                    بغایت رفیع و متین ست
+                    احاطه نموده جریان دارد در
+                    <flag type="meaning">ترصع</flag>
+                     خندق شهر واقع گردیده است بسر مزار فایض الانوار شیخ عبد الخالق بقضای شهر آن یک
+                    مدرسه سنگین از ابنیه میرزا الوغ بیگ موجود ست بسر
+                    <loc id="310">مزار فایض الانوار شیخ عبد الخالق</loc>
+                     بقنای شهر آن یک مدرسه سنگین از ابنیه میرزا الوغ بیگ موجود ست و یک مدرسه چوبین
+                    دیگر نیز دارد و یک خانقاه سنگین دیگر بسر
+                    <loc id="6270">مزار صوفی چونید</loc>
+                     نیز موجود ست بغایت رفیع و متین ست
                     <pg folio="6b"/>
                      رسته و بازار آباد و معمور ست متجاوز از پانزده عدد سرای داردرسته و بازار آباد و
                     معمور ست متجاوز از پانزده عدد سرای دارد </ts>
@@ -87,7 +89,9 @@
                     دارند هر ساله چند نفر تلف و مجروح میشود مع هذا باز نمیایستن با استاذ شدن آن
                     مبالغ گزاف
                     <flag type="orthography">ی</flag>
-                     صرف مینمایند و باسپتازی نیز شوق وافق دارند</ts>
+                     صرف مینمایند و
+                    <flag type="meaning">باسپتازی</flag>
+                     نیز شوق وافق دارند</ts>
                 <ts type="nat-resources">درین ولایت اسپهای تازی نژاد فراوان ست</ts>
                 <ts type="ethnographic">و مقدار پنچصد نفر هنود مجوس نیز درین جا بربا خوری مشغولند
                     کلیه نفوس اینولایت هفتاد هزار خانه دار ست و مشتمل ست </ts>
@@ -125,9 +129,7 @@
                 <ts type="economic">اکثر اهالی این مرزبوم تجار و صاحب ثروه اند</ts>
                 <ts type="agricultural">و زراعت این تومان نیز خوب ست</ts>
                 <ts type="ethnographic">و درین تومان از اولاد مجاهدین اسلام از قبیله نجیب عرب مقدار
-                    سه هزار خانه دار موجود ست اینولایت پنجسد
-                    <flag type="orthography">نه</flag>
-                     و قریه را دارا است</ts>
+                    سه هزار خانه دار موجود ست اینولایت پنجصد و نه قریه را دارا است</ts>
                 <ts type="infrastructure">و چهار صد و شصت مساجد دارد و دوازده عدد خانقاه عیدین و
                     جمعه خوانی دارد</ts>
                 <ts type="ethnographic">کلیه سکنه این تومان مقدار پنجاه هزار خانه دار ست و قبیله های

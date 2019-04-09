@@ -6,108 +6,183 @@
 <translation>
     <loc_sec id="47">
         <heading>Qarakol Province</heading>
-        <ts>The second <glossed><target>province</target> <gloss type="translit">wilāyat ū ḥukūmat</gloss></glossed>
-            of the provinces of Bukhara is the <glossed>district<gloss type="translit"
-                >qaẓā</gloss></glossed> of Qarakol. Its distance from Bukhara the Noble is seven
-                    <glossed>farsakhs<gloss type="comment">A "farsakh" is an old Persian unit of
-                    measurement, around 4 miles.</gloss></glossed>. This province is vast and
-            populous. The denizens of this province are all well-off, and all of them <glossed>have
-                    livestock<gloss type="literal">have herds</gloss></glossed>. In the past, this
-            province was even vaster; [but then] in the span of a century, sand enveloped a quarter
-            of the province from the west, north, and south. Nevertheless, [Qarakol is among] the
-            most propserous of the provinces. Due to a <glossed>lack of learning<gloss
-                    type="translit">ʿadam-i ʿilm</gloss></glossed>, the population does not engage
-            in trade. However, in this province there are many individuals who own more than one or
-            two million <glossed>Tanga <gloss type="comment">a currency</gloss></glossed>, and many
-            of them are even wealthier than the Bukharan merchants. Qarakol [sheep] skins are well
-            known for their high value, and are even more prized in <glossed>Europe<gloss
-                    type="translit">Ūrūpā ū Farangistān</gloss></glossed> than in Bukhara, and are
-            obtainable in greater numbers and earlier [in the season] than in other provinces.</ts>
-        <ts>In this province there is: one <glossed>brick and mortar<gloss type="translit"
-                    >sangīn</gloss></glossed> madrasa and one <glossed>qārī-khāna<gloss
-                    type="comment">Qur'an recitation center</gloss></glossed>; adjacent to the
-                    <glossed>fortress<gloss type="translit"/>Qurghan</glossed> are seven
-                <glossed>sufi lodges<gloss type="translit">khānaqāh</gloss></glossed> (both wooden
-            and stone) and eighteen mosques. [The province] comprises 809 villages, which contain
-            150,000 residents. </ts>
+        <ts>The second <glossed>
+                <target>province</target>
+                <gloss type="translit">wilāyat ū ḥukūmat</gloss>
+            </glossed> of the provinces of Bukhara is the <glossed>
+                <target>district</target>
+                <gloss type="translit">qaẓā</gloss>
+            </glossed> of Qarakol. Its distance from Bukhara the Noble is seven <glossed>
+                <target>farsakhs</target>
+                <gloss type="comment">A "farsakh" is an old Persian unit of measurement, around 4
+                    miles.</gloss>
+            </glossed>.</ts>
+        <ts>This province is vast and populous. The denizens of this province are all well-off, and
+            all of them <glossed>
+                <target>have livestock</target>
+                <gloss type="literal">have herds</gloss>
+            </glossed>. In the past, this province was even vaster; [but then] in the span of a
+            century, sand enveloped a quarter of the province from the west, north, and south.
+            Nevertheless, [Qarakol is among] the most propserous of the provinces. Due to a <glossed>
+                <target>lack of learning</target>
+                <gloss type="translit">ʿadam-i ʿilm</gloss>
+            </glossed>, the population does not engage in trade. However, in this province there are
+            many individuals who own more than one or two million <glossed>
+                <target>Tanga</target>
+                <gloss type="comment">a currency</gloss>
+            </glossed>, and many of them are even wealthier than the Bukharan merchants. Qarakol
+            [sheep] skins are well known for their high value, and are even more prized in <glossed>
+                <target>Europe</target>
+                <gloss type="translit">Ūrūpā ū Farangistān</gloss>
+            </glossed> than in Bukhara, and are obtainable in greater numbers and earlier [in the
+            season] than in other provinces.</ts>
+        <ts>In this province there is: one <glossed>
+                <target>brick and mortar</target>
+                <gloss type="translit">sangīn</gloss>
+            </glossed> madrasa and one <glossed>
+                <target>qārī-khāna</target>
+                <gloss type="comment">Qur'an recitation center</gloss>
+            </glossed>; adjacent to the <glossed>
+                <target>fortress</target>
+                <gloss type="translit">Qurghan</gloss>
+            </glossed> are seven <glossed>
+                <target>sufi lodges</target>
+                <gloss type="translit">khānaqāh</gloss>
+            </glossed> (both wooden and stone) and eighteen mosques. [The province] comprises 809
+            villages, which contain 150,000 residents. </ts>
         <ts>Water in this province is inadequate, but despite that, agriculture is good. In a bad
             [drought] year, the land is irrigated, which leads to a strong harvest.</ts>
-        <ts>To the west of this province is a salt mine, located four farsakhs <glossed>from the
-                    center<gloss type="translit">az markaz-i qażā-yi ān</gloss></glossed>. Every
-            year around ten thousand individuals beset by <glossed>illnesses of the nerves<gloss
-                    type="translit">amrāż-i ʿaṣabānī</gloss></glossed>, such as
-            <flag>check</flag>
-             come to this salt mine for treatment. Even foreigners consider the mineral water from
-            this mine to be superior to others.</ts>
-        <ts>To the east of this province, in the territory of Paykand, there is a ruin in the sand.
-            This is in fact the original, ancient city of Bukhara, and
-            <flag>Abdallah bin Ziyad [an Arab general during the 8th (?) century]</flag>
-             fought there. Now all of the <glossed>walls and fortresses<gloss type="translit">suwar
-                    ū qalʿa ū arg</gloss></glossed> and some of the buildings still remain, but - in
-            the words of the holy Qur'an -
-            <flag>???</flag>
-             . The people of Paykand excavate this area to find silver and gold coins, and other old
-            artifacts, and in this manner make their living. The reason for the ruination of this
-            province is twofold: first, the Arab armies devastated it during the conquest [of the
-            7th and 8th centuries]; second, sand has enveloped it. For these two reasons, the
-            province has fallen into ruin. </ts>
+        <ts>To the west of this province is a <glossed>
+                <target>salt mine</target>
+                <gloss type="translit">maʿdan-i namak</gloss>
+            </glossed>, located four farsakhs <glossed>
+                <target>from the center</target>
+                <gloss type="translit">az markaz-i qażā-yi ān</gloss>
+            </glossed>. Every year around ten thousand individuals beset by <glossed>
+                <target>illnesses of the nerves</target>
+                <gloss type="translit">amrāż-i ʿaṣabānī</gloss>
+            </glossed>, such as <glossed>
+                <target>back pain</target>
+                <gloss type="translit">ʿirq al-nisā</gloss>
+            </glossed>, come to this salt mine for treatment. Even foreigners consider the mineral
+            water from this mine to be superior to others.</ts>
+        <ts>To the east of this province, in the territory of <glossed>
+                <target>Paykand</target>
+                <gloss type="comment">Paykand was indeed a major silk road town destroyed during the
+                    Arab conquests.</gloss>
+            </glossed>, there is a ruin in the sand. This is in fact the original, ancient city of
+            Bukhara, and <glossed>
+                <target>Ubaydallah ibn Ziyad</target>
+                <gloss type="comment">The text actually identifies this Arab general as ʿAbdallāh
+                    ibn Ziyād, but the author surely intended ʿUbaydallāh ibn Ziyād (d. 686), who
+                    led the first Arab invasion of Bukhara.</gloss>
+            </glossed> fought there. Now all of the <glossed>
+                <target>walls and fortresses</target>
+                <gloss type="translit">suwar ū qalʿa ū arg</gloss>
+            </glossed> and some of the buildings still remain, but - in the words of the holy Qur'an
+            - <glossed>
+                <target>"and it was an empty and ruined town"</target>
+                <gloss type="comment">The longer passge is: "Or such as he who passed by a city that
+                    was fallen down upon its turrets; he said, 'How shall God give life to this now
+                    it is dead?'" (Q 2:259)</gloss>
+            </glossed>. The people of Paykand excavate this area to find silver and gold coins, and
+            other old artifacts, and in this manner make their living. The reason for the ruination
+            of this province is twofold: first, the Arab armies devastated it during the conquest
+            [of the 7th and 8th centuries]; second, sand has enveloped it. For these two reasons,
+            the province has fallen into ruin.</ts>
     </loc_sec>
     <loc_sec id="46">
         <heading>Ghijduvan</heading>
-        <ts>The third province is the <glossed>district<gloss type="translit">qażā</gloss></glossed>
-            of Kharqānrūd. This province of Ghijduvan is an ancient city and great land. </ts>
-        <ts>This province is long; it spans from the plain (qir) of Bābā Dūghī to the hill (tall) of
-            Ghandak. East-West it is nine Farsakhs of pasture and farmland. </ts>
-        <ts>Inside the fortress (Qurghan) there are a number of ancient structures, including a
-            stone bathhouse, as well as a stone Sufi lodge (khānaqāh) at the head of the shrine
-            (mazār) of Shaykh Tāj al-Dīn. Inside the city there are seven other mosques.
-            <flag>REVSIT rest of section</flag>
-        </ts>
+        <ts>The third province is the <glossed>
+                <target>district</target>
+                <gloss type="translit">qażā</gloss>
+            </glossed> of Kharqānrūd. This province of Ghijduvan is an ancient city and great
+            land.</ts>
+        <ts>This province is long; it spans from the <glossed>
+                <target>plain</target>
+                <gloss type="translit">qir (Turkic origin)</gloss>
+            </glossed> of Bābā Dūghī to the <glossed>
+                <target>hill</target>
+                <gloss type="translit">tall</gloss>
+            </glossed> of Ghandak. East-West it is nine farsakhs of pasture and farmland.</ts>
+        <ts>Inside the <glossed>
+                <target>fortress</target>
+                <gloss type="translit">Qurghan</gloss>
+            </glossed> there are a number of ancient structures, including a stone bathhouse, as
+            well as a stone <glossed>
+                <target>sufi lodge</target>
+                <gloss type="translit">khānaqāh</gloss>
+            </glossed> at the head of the <glossed>
+                <target>shrine</target>
+                <gloss type="translit">mazār</gloss>
+            </glossed> of Shaykh Tāj al-Dīn. Inside the city there are seven other mosques. Also
+            inside that city are one thousand households. The cities of Pirmast and Sultanabad run
+            right up against the fortress,
+            <flag>along which flows a ditch [of water].</flag>
+             At the head of the <glossed>
+                <target>Abd al-Khaliq shrine</target>
+                <gloss type="comment">Shaykh Abd al-Khaliq Ghijduwani's shrine is the first stop of
+                    the "seven saints" pilgrimage circuit.</gloss>
+            </glossed> at the outskirts of the city there is a <glossed>
+                <target>stone madrasa built by Ulugh Beg</target>
+                <gloss type="comment">This madrasa built by the famous Timurid prince still
+                    stands.</gloss>
+            </glossed>.</ts>
         <ts>Most of the people are Kazakhs of Nur-Ata who come to this province to work; they do not
             go to Bukhara itself. </ts>
-        <ts>The people of this province
-            <flag>are constantly injured from their penchant for fireworks</flag>
-             . Every year several individuals are killed or injured. Nevertheless, they persist in
-            this activity.
-            <flag>FINISH section</flag>
+        <ts>The people of this province are constantly injured by <glossed>
+                <target>fireworks</target>
+                <gloss type="translit">bi-ātash-bāzī ū mūshak-andāzī</gloss>
+            </glossed> during the holidays . Every year several individuals are killed or injured.
+            Nevertheless, they persist in this activity;
+            <flag>despite their learnedness [in this city], they devote great foolishness to this
+                pursuit.</flag>
         </ts>
         <ts>Across five hundred and sixty villages there are 715 mosques and twenty-six
             congregational mosques. </ts>
         <ts>In the village of Bāy-Khātūn, at the fut of a great mulberry tree on the road to
-            Bukhara, there is a footprint shrine (qadam-gāh) of Bahā’ al-Dīn [Naqshband] from when
-            he was on pilgrimage (ziyārat) to the shrine of ʿAbd al-Khāliq. Halting a fourth of a
-            Farsakh from the village of Unf al-Bayān, on the way back from the pilgrimage, every
-            person travelling from Bukhara to Ghijduvan can see the sacred footprints at the
-            aforementioned mulberry tree.</ts>
+            Bukhara, there is a <glossed>
+                <target>footprint shrine</target>
+                <gloss type="translit">qadam-gāh</gloss>
+            </glossed> of Bahā’ al-Dīn [Naqshband] from when he was on <glossed>
+                <target>pilgrimage</target>
+                <gloss type="translit">ziyārat</gloss>
+            </glossed> to the shrine of ʿAbd al-Khāliq. Halting a fourth of a Farsakh from the
+            village of Unf al-Bayān, on the way back from the pilgrimage, every person travelling
+            from Bukhara to Ghijduvan can see the sacred footprints at the aforementioned mulberry
+            tree.</ts>
     </loc_sec>
     <loc_sec id="48">
         <heading>Wabkand</heading>
-        <ts>The third province of Bukhara is the province of Kamat, i.e. Wabkand. The province
-            (tūmān) of Kamat is better known as Wabkand</ts>
+        <ts>The third province of Bukhara is the province of Kamat, i.e. Wabkand. The <glossed>
+                <target>province</target>
+                <gloss type="translit">tūmān</gloss>
+            </glossed> of Kamat is better known as Wabkand</ts>
         <ts>The bazar [Wabkand] is rich and prosperous, and the weather of the province is
             good.</ts>
-        <ts>In terms of remnants of ancient ruins, there is a stone minaret built by Arp Aslan Khan
-            [a Seljuk ruler], who built it in the year 455 hijri [1063-1064 CE]. The mosque of that
-            [minaret] was destroyed by an earthquake (ḥarakat-i arż). Now there is a five-prayer
+        <ts>In terms of remnants of ancient ruins, there is a stone minaret built by <glossed>
+                <target>Arp Aslan Khan</target>
+                <gloss type="comment">A famous Seljuk sultan (r. 1063-1072)</gloss>
+            </glossed>, who built it in the year 455 hijri [1063-1064 CE]. The mosque of that
+            [minaret] was destroyed by an <glossed><target>earthquake</target><gloss type="translit">ḥarakat-i arż</gloss></glossed>. Now there is a five-prayer
             mosque located nearby the [old] minaret, as well as a stone madrasa, and a partial sufi
-            lodge with numerous dorms (ḥujrāt) next to the shrine of Mir Khurd.</ts>
+            lodge with numerous <glossed><target>dorms</target><gloss type="translit">ḥujrāt</gloss></glossed> next to the shrine of Mir Khurd.</ts>
         <ts>In terms of other ancient remnants, the ruins of
             <flag>Shar Narchaq</flag>
-             are also located in this province, a half-Farsakh from the district center.</ts>
+             are also located in this province, a half-farsakh from the district center.</ts>
         <ts>Most of the denizens of this region are merchants or otherwise well off.</ts>
         <ts>The agriculture of this province is also good.</ts>
         <ts>In this province there are three thousand households of descendants of the original
-            Muslim conquerors (mujāhidīn-i Islām), from the Arab Najib tribe.
-            <flag>revisit</flag>
-        </ts>
-        <ts>This province has four hundred and sixty mosques and twelve sufi lodges (khānaqāh-i
-            ʿaydayn wa jumaʿa khwānī).</ts>
+            <glossed><target>Muslim conquerors</target><gloss type ="translit">mujāhidīn-i Islām</gloss></glossed>, from the Arab Najib tribe. [In all], this
+            province has five hundred and nine villages.</ts>
+        <ts>This province has four hundred and sixty mosques and twelve <glossed><target>sufi lodges</target><gloss type="translit">khānaqāh-i
+            ʿaydayn wa jumaʿa khwānī</gloss></glossed>.</ts>
         <ts>The total number of residents of this province is fifty thousand households. Of the
             Turkic tribes, the Manghits, the Saray, and the Nayman are many in this province. And
             there are also Tajiks.</ts>
         <ts>According to local lore, Abu Ali Ibn Sina was from the village of Narchaq. Others say he
             was from
-            <flag>check name</flag>
+            <flag>[a different village]</flag>
              . However, according to the book Rawżat al-Ṣafāʾ [Ibn Sina] was from a village to the
             south of Bukhara.</ts>
     </loc_sec>
