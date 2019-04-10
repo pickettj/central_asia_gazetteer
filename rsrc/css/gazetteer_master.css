@@ -106,7 +106,9 @@ div {
       flex-direction: column;
       
 }
-
+div.table-contents{
+    width: 75%;
+}
 img.turk_map {
       height: 70%;
   width: 70%;
