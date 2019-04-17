@@ -72,20 +72,9 @@
     </xsl:template>
 
     <xsl:template match="glossed">
-        <xsl:choose>
-            <xsl:when test="@type = 'translit'">
                 <span class="dropdown">
-                    <em>
-                        <xsl:apply-templates/>
-                    </em>
-                </span>
-            </xsl:when>
-            <xsl:otherwise>
-                <span class="dropdown">
-                    <xsl:apply-templates/>
-                </span>
-            </xsl:otherwise>
-        </xsl:choose>
+                        <xsl:apply-templates/>  
+                </span>   
     </xsl:template>
 
     <xsl:template match="target">
@@ -97,7 +86,7 @@
 
 
     <xsl:template match="gloss">
-        <span class="dropdown-content">
+        <span class="dropdown-content {@type}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
