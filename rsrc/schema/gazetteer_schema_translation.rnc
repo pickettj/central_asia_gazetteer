@@ -9,7 +9,8 @@ heading = element heading {text}
 
 id = attribute id {text}
 
-ts = element ts {mixed { (flag | glossed)*} }
+ts = element ts {ts_type, mixed { (flag | glossed)*} }
+ts_type = attribute type { "lore" | "economic" | "ethnographic" | "geography" | "infrastructure" | "agricultural" | "nat-resources" | "sacred" }
 
 flag = element flag {text}
 
