@@ -44,6 +44,14 @@
    float: left;
 }
 
+span {
+	font-weight: normal;
+	color: blue;
+}
+.clicked-span {
+	color: green;
+}
+
 #display-subblock {
 	display: inline-block;
 	float: left;
