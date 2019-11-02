@@ -4,19 +4,35 @@
 		<div id="mapid"></div>
 		<script src="rsrc/js/bukhara_protectorate_map.js"></script>
 
-		<!--Textbox buttons-->
-		<table style="margin-left: 20px;">
-			<tr>
-				<td><div id="button-english" class="open-button"
-						 onclick="togglePersianToEnglish()">English</div></td>
-				<td><div id="button-persian" class="closed-button"
-						 onclick="toggleEnglishToPersian()">Persian</div></td>
-			</tr>
-		</table>
-		<script src="rsrc/js/toggle_textbox_buttons.js"></script>
-						
-		<!--Textbox-->
-		<div id="text-english" class="displayed-textbox">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</div>
-		<div id="text-persian" class="hidden-textbox">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. fdkfkjdkfjdkfjdlslds</div>
+		<div id="container-block">
+			<div id="outline-block">
+				<span id="ts-lore" onclick="toggleSectionLore()">Lore</span></br>
+				<span id="ts-sacred">Sacred</span></br>
+				<span id="ts-economic">Economic</span></br>
+				<span id="ts-agricultural">Agricultural</span></br>
+				<span id="ts-natural_resources">Natural Resources</span></br>
+				<span id="ts-ethnographic">Ethnographic</span></br>
+				<span id="ts-geographic">Geographic</span></br>
+				<span id="ts-infrastructure">Infrastructure</span></br>
+			</div>
+			<script src="rsrc/js/toggle_ts.js"></script>
+			
+			<div id="dislay-subblock">
+				<!--Textbox buttons-->
+				<table style="margin-left: 20px;">
+					<tr>
+						<td><div id="button-english" class="open-button"
+								 onclick="togglePersianToEnglish()">English</div></td>
+						<td><div id="button-persian" class="closed-button"
+								 onclick="toggleEnglishToPersian()">Persian</div></td>
+					</tr>
+				</table>
+				<script src="rsrc/js/toggle_textbox_buttons.js"></script>
+								
+				<!--Textbox-->
+				<div id="text-english" class="displayed-textbox">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. dfkdfdld fpodsoeroewr pdskfodskpfds preroewirpeworeoweorepoewpopoewpoepoewpoerp [qwew- sdoapskaoopwqp'ewq'i ewqopeowqiewpowqi023idfjl dw;ewqoewq;ew;ewq;;ewq;w; e023=32 fdkddsjfdslk</div>
+				<div id="text-persian" class="hidden-textbox">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. fdkfkjdkfjdkfjdlslds dsodos[saa[ ewwweweweweweww 102-1-2 wew44545gds opewreorewoe -=21=-23lfjejfewriewepewreniweprepoirewporewprewn fdsf-weiwfjdpds pdsopdffipdsp 9-2 ds;jsallksajldsak djalslkds</div>
+			</div>
+		</div>
 	</div>
 <!--</div>-->

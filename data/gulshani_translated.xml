@@ -6,7 +6,7 @@
 <translation>
     <loc_sec id="47">
         <heading>Qarakol Province</heading>
-        <ts>The second <glossed>
+        <ts type="geography">The second <glossed>
                 <target>province</target>
                 <gloss type="translit">wilāyat ū ḥukūmat</gloss>
             </glossed> of the provinces of Bukhara is the <glossed>
@@ -17,7 +17,7 @@
                 <gloss type="comment">A "farsakh" is an old Persian unit of measurement, around 4
                     miles.</gloss>
             </glossed>.</ts>
-        <ts>This province is vast and populous. The denizens of this province are all well-off, and
+        <ts type="lore">This province is vast and populous. The denizens of this province are all well-off, and
             all of them <glossed>
                 <target>have livestock</target>
                 <gloss type="literal">have herds</gloss>
@@ -36,7 +36,7 @@
                 <gloss type="translit">Ūrūpā ū Farangistān</gloss>
             </glossed> than in Bukhara, and are obtainable in greater numbers and earlier [in the
             season] than in other provinces.</ts>
-        <ts>In this province there is: one <glossed>
+        <ts type="economic">In this province there is: one <glossed>
                 <target>brick and mortar</target>
                 <gloss type="translit">sangīn</gloss>
             </glossed> madrasa and one <glossed>
@@ -50,9 +50,9 @@
                 <gloss type="translit">khānaqāh</gloss>
             </glossed> (both wooden and stone) and eighteen mosques. [The province] comprises 809
             villages, which contain 150,000 residents. </ts>
-        <ts>Water in this province is inadequate, but despite that, agriculture is good. In a bad
+        <ts type="infrastructure">Water in this province is inadequate, but despite that, agriculture is good. In a bad
             [drought] year, the land is irrigated, which leads to a strong harvest.</ts>
-        <ts>To the west of this province is a <glossed>
+        <ts type="agricultural">To the west of this province is a <glossed>
                 <target>salt mine</target>
                 <gloss type="translit">maʿdan-i namak</gloss>
             </glossed>, located four farsakhs <glossed>
@@ -66,7 +66,7 @@
                 <gloss type="translit">ʿirq al-nisā</gloss>
             </glossed>, come to this salt mine for treatment. Even foreigners consider the mineral
             water from this mine to be superior to others.</ts>
-        <ts>To the east of this province, in the territory of <glossed>
+        <ts type="nat-resources">To the east of this province, in the territory of <glossed>
                 <target>Paykand</target>
                 <gloss type="comment">Paykand was indeed a major silk road town destroyed during the
                     Arab conquests.</gloss>
@@ -93,19 +93,19 @@
     </loc_sec>
     <loc_sec id="46">
         <heading>Ghijduvan</heading>
-        <ts>The third province is the <glossed>
+        <ts type="geography">The third province is the <glossed>
                 <target>district</target>
                 <gloss type="translit">qażā</gloss>
             </glossed> of Kharqānrūd. This province of Ghijduvan is an ancient city and great
             land.</ts>
-        <ts>This province is long; it spans from the <glossed>
+        <ts type="geography">This province is long; it spans from the <glossed>
                 <target>plain</target>
                 <gloss type="translit">qir (Turkic origin)</gloss>
             </glossed> of Bābā Dūghī to the <glossed>
                 <target>hill</target>
                 <gloss type="translit">tall</gloss>
             </glossed> of Ghandak. East-West it is nine farsakhs of pasture and farmland.</ts>
-        <ts>Inside the <glossed>
+        <ts type="infrastructure">Inside the <glossed>
                 <target>fortress</target>
                 <gloss type="translit">Qurghan</gloss>
             </glossed> there are a number of ancient structures, including a stone bathhouse, as
@@ -128,9 +128,9 @@
                 <gloss type="comment">This madrasa built by the famous Timurid prince still
                     stands.</gloss>
             </glossed>.</ts>
-        <ts>Most of the people are Kazakhs of Nur-Ata who come to this province to work; they do not
+        <ts type="ethnographic">Most of the people are Kazakhs of Nur-Ata who come to this province to work; they do not
             go to Bukhara itself. </ts>
-        <ts>The people of this province are constantly injured by <glossed>
+        <ts type="lore">The people of this province are constantly injured by <glossed>
                 <target>fireworks</target>
                 <gloss type="translit">bi-ātash-bāzī ū mūshak-andāzī</gloss>
             </glossed> during the holidays . Every year several individuals are killed or injured.
@@ -138,9 +138,9 @@
             <flag>despite their learnedness [in this city], they devote great foolishness to this
                 pursuit.</flag>
         </ts>
-        <ts>Across five hundred and sixty villages there are 715 mosques and twenty-six
+        <ts type="infrastructure">Across five hundred and sixty villages there are 715 mosques and twenty-six
             congregational mosques. </ts>
-        <ts>In the village of Bāy-Khātūn, at the fut of a great mulberry tree on the road to
+        <ts type="sacred">In the village of Bāy-Khātūn, at the fut of a great mulberry tree on the road to
             Bukhara, there is a <glossed>
                 <target>footprint shrine</target>
                 <gloss type="translit">qadam-gāh</gloss>
@@ -154,33 +154,33 @@
     </loc_sec>
     <loc_sec id="48">
         <heading>Wabkand</heading>
-        <ts>The third province of Bukhara is the province of Kamat, i.e. Wabkand. The <glossed>
+        <ts type="geography">The third province of Bukhara is the province of Kamat, i.e. Wabkand. The <glossed>
                 <target>province</target>
                 <gloss type="translit">tūmān</gloss>
             </glossed> of Kamat is better known as Wabkand</ts>
-        <ts>The bazar [Wabkand] is rich and prosperous, and the weather of the province is
+        <ts type="lore">The bazar [Wabkand] is rich and prosperous, and the weather of the province is
             good.</ts>
-        <ts>In terms of remnants of ancient ruins, there is a stone minaret built by <glossed>
+        <ts type="infrastructure">In terms of remnants of ancient ruins, there is a stone minaret built by <glossed>
                 <target>Arp Aslan Khan</target>
                 <gloss type="comment">A famous Seljuk sultan (r. 1063-1072)</gloss>
             </glossed>, who built it in the year 455 hijri [1063-1064 CE]. The mosque of that
             [minaret] was destroyed by an <glossed><target>earthquake</target><gloss type="translit">ḥarakat-i arż</gloss></glossed>. Now there is a five-prayer
             mosque located nearby the [old] minaret, as well as a stone madrasa, and a partial sufi
             lodge with numerous <glossed><target>dorms</target><gloss type="translit">ḥujrāt</gloss></glossed> next to the shrine of Mir Khurd.</ts>
-        <ts>In terms of other ancient remnants, the ruins of
+        <ts type="infrastructure">In terms of other ancient remnants, the ruins of
             <flag>Shar Narchaq</flag>
              are also located in this province, a half-farsakh from the district center.</ts>
-        <ts>Most of the denizens of this region are merchants or otherwise well off.</ts>
-        <ts>The agriculture of this province is also good.</ts>
-        <ts>In this province there are three thousand households of descendants of the original
+        <ts type="economic">Most of the denizens of this region are merchants or otherwise well off.</ts>
+        <ts type="agricultural">The agriculture of this province is also good.</ts>
+        <ts type="ethnographic">In this province there are three thousand households of descendants of the original
             <glossed><target>Muslim conquerors</target><gloss type ="translit">mujāhidīn-i Islām</gloss></glossed>, from the Arab Najib tribe. [In all], this
             province has five hundred and nine villages.</ts>
-        <ts>This province has four hundred and sixty mosques and twelve <glossed><target>sufi lodges</target><gloss type="translit">khānaqāh-i
+        <ts type="sacred">This province has four hundred and sixty mosques and twelve <glossed><target>sufi lodges</target><gloss type="translit">khānaqāh-i
             ʿaydayn wa jumaʿa khwānī</gloss></glossed>.</ts>
-        <ts>The total number of residents of this province is fifty thousand households. Of the
+        <ts type="ethnographic">The total number of residents of this province is fifty thousand households. Of the
             Turkic tribes, the Manghits, the Saray, and the Nayman are many in this province. And
             there are also Tajiks.</ts>
-        <ts>According to local lore, Abu Ali Ibn Sina was from the village of Narchaq. Others say he
+        <ts type="lore">According to local lore, Abu Ali Ibn Sina was from the village of Narchaq. Others say he
             was from
             <flag>[a different village]</flag>
              . However, according to the book Rawżat al-Ṣafāʾ [Ibn Sina] was from a village to the

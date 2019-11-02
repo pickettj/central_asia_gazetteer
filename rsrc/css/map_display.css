@@ -16,15 +16,49 @@
     color: white;
     
     height: 475px;
-    width: 700px;
+    width: 935px;
 }
 
 #mapid {
     background-color: white;
     color: black;
     
-    width: 625px;
+    width: 860px;
     height: 180px;
+}
+
+#container-block {
+	/*overflow: hidden;
+	display: inline-block;*/
+}
+
+#outline-block {
+   background-color: #eeeedd;
+   height: 210px;
+   width: 220px;
+   display: inline-block;
+   margin-left: -3px;
+   margin-top: -15px;
+   
+   overflow: auto;
+   float: left;
+}
+
+span {
+	font-weight: normal;
+	color: blue;
+}
+.clicked-span {
+	color: green;
+}
+
+#display-subblock {
+	display: inline-block;
+	float: left;
+
+	padding: 0;
+	
+	margin-top: -500px;
 }
 
 /* Textbox styles */
@@ -38,21 +72,32 @@
 /*  Unique ids */
 #text-english {
     margin-bottom: 0px;
+	margin-left: 208px;
+	margin-top: -15px;
 }
 
 #text-persian {
     margin-bottom: 0px;
+	margin-left: 208px;
+	margin-top: -15px;
 }
 
 /*  Toggable classes */
 .displayed-textbox {
    background-color: #eeeedd;
    display: block;
+   overflow: auto;
    
-   width: 625px;
+   height: 175px;
+   width: 610px;
+   margin-left: 5px;
+   
+   font-size: 27px;
 }
 .hidden-textbox {
     display: none;
+	
+	height: 175px;
 	width: 625px;
 }
 
@@ -61,11 +106,17 @@
 /* Unique ids */
 #button-english {
    margin-bottom: -30px;
-   margin-left: 5px;
+   margin-left: 21px;
+   margin-top: -50px;
+   
+   font-size: 30px;
 }
 #button-persian {
    margin-bottom: -30px;
    margin-left: -3px;
+   margin-top: -50px;
+   
+   font-size: 30px;
 }
 
 /* Toggable classes */
